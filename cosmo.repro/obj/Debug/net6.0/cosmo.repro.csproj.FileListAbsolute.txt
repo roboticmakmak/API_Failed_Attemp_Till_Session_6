@@ -1,0 +1,23 @@
+C:\Users\Egypt print\Desktop\APIS\COSMO APIs solution\cosmo.repro\bin\Debug\net6.0\cosmo.repro.deps.json
+C:\Users\Egypt print\Desktop\APIS\COSMO APIs solution\cosmo.repro\bin\Debug\net6.0\cosmo.repro.dll
+C:\Users\Egypt print\Desktop\APIS\COSMO APIs solution\cosmo.repro\bin\Debug\net6.0\cosmo.repro.pdb
+C:\Users\Egypt print\Desktop\APIS\COSMO APIs solution\cosmo.repro\bin\Debug\net6.0\cosmo.core2.dll
+C:\Users\Egypt print\Desktop\APIS\COSMO APIs solution\cosmo.repro\bin\Debug\net6.0\cosmo.core2.pdb
+C:\Users\Egypt print\Desktop\APIS\COSMO APIs solution\cosmo.repro\obj\Debug\net6.0\cosmo.repro.csproj.AssemblyReference.cache
+C:\Users\Egypt print\Desktop\APIS\COSMO APIs solution\cosmo.repro\obj\Debug\net6.0\cosmo.repro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Egypt print\Desktop\APIS\COSMO APIs solution\cosmo.repro\obj\Debug\net6.0\cosmo.repro.AssemblyInfoInputs.cache
+C:\Users\Egypt print\Desktop\APIS\COSMO APIs solution\cosmo.repro\obj\Debug\net6.0\cosmo.repro.AssemblyInfo.cs
+C:\Users\Egypt print\Desktop\APIS\COSMO APIs solution\cosmo.repro\obj\Debug\net6.0\cosmo.repro.csproj.CoreCompileInputs.cache
+C:\Users\Egypt print\Desktop\APIS\COSMO APIs solution\cosmo.repro\obj\Debug\net6.0\cosmo.re.97F5DC4C.Up2Date
+C:\Users\Egypt print\Desktop\APIS\COSMO APIs solution\cosmo.repro\obj\Debug\net6.0\cosmo.repro.dll
+C:\Users\Egypt print\Desktop\APIS\COSMO APIs solution\cosmo.repro\obj\Debug\net6.0\refint\cosmo.repro.dll
+C:\Users\Egypt print\Desktop\APIS\COSMO APIs solution\cosmo.repro\obj\Debug\net6.0\cosmo.repro.pdb
+C:\Users\Egypt print\Desktop\APIS\COSMO APIs solution\cosmo.repro\obj\Debug\net6.0\ref\cosmo.repro.dll
+C:\Users\user\Desktop\COSMO APIs solution\cosmo.repro\obj\Debug\net6.0\cosmo.repro.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\COSMO APIs solution\cosmo.repro\obj\Debug\net6.0\cosmo.repro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\COSMO APIs solution\cosmo.repro\obj\Debug\net6.0\cosmo.repro.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\COSMO APIs solution\cosmo.repro\obj\Debug\net6.0\cosmo.repro.AssemblyInfo.cs
+C:\Users\user\Desktop\COSMO APIs solution\cosmo.repro\obj\Debug\net6.0\cosmo.repro.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\COSMO APIs solution\cosmo.repro\obj\Debug\net6.0\cosmo.repro.dll
+C:\Users\user\Desktop\COSMO APIs solution\cosmo.repro\obj\Debug\net6.0\refint\cosmo.repro.dll
+C:\Users\user\Desktop\COSMO APIs solution\cosmo.repro\obj\Debug\net6.0\cosmo.repro.pdb
